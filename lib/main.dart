@@ -32,3 +32,4 @@ class MyApp extends StatelessWidget {
         home: log_reg());
   }
 }
+ //hello man
